@@ -10,7 +10,6 @@ input::-ms-clear {display:none}
 button {border:0 none;background-color:transparent;cursor:pointer}
 body {background:#fff}
 body,th,td,input,select,textarea,button {font-size:14px;line-height:1.5;font-family:'Noto Sans', sans-serif}
-th,td {font-size:14px;line-height:0.7;font-family:'Noto Sans', sans-serif} /* color값은 디자인가이드에 맞게사용. 래 color:#666, line-height:1.5 */
 a {color:#333;text-decoration:none}
 a:active, a:hover {text-decoration:underline}
 a:active {background-color:
