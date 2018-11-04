@@ -6,6 +6,7 @@
 .hljs {
   display: block;
   overflow-x: auto;
+  letter-spacing: 1px;
   padding: 0.5em;
   background: #1E1E1E;
   color: #DCDCDC;
