@@ -160,10 +160,6 @@ address,caption,cite,code,dfn,em,var {font-style:normal;font-weight:normal}
 .skin_view .area_view{padding:20px 0}
 .skin_view .area_view p {font-size:16px;line-height:28px; margin:0 auto 5px}
 .skin_view .area_view a {color:#3db39e}
-.skin_view .area_view h1,
-.skin_view .area_view h2,
-.skin_view .area_view h3,
-.skin_view .area_view h4 { font-size:26px; line-height:30px; margin:52px auto 28px }
 .skin_view .area_view ul,
 .skin_view .area_view ol { margin: 0 auto 10px; padding: 0 0 0 10px; }
 .skin_view .area_view ul li,
