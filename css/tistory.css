@@ -171,7 +171,7 @@ address,caption,cite,code,dfn,em,var {font-style:normal;font-weight:normal}
 .skin_view .area_view blockquote ul:last-child,
 .skin_view .area_view blockquote p:last-child { margin-bottom:0 }
 
-.skin_view .area_view pre { background-color:#1E1E1E; margin:28px auto; padding:16px; word-wrap: break-word; font-family: Menlo,Consolas,Monaco,monospace; font-size:14px; line-height:20px}
+.skin_view .area_view pre { background-color:#1E1E1E; margin:10px auto; padding:16px; word-wrap: break-word; font-family: Menlo,Consolas,Monaco,monospace; font-size:14px; line-height:20px}
 .skin_view .area_view iframe { max-width:100% }
 
 .skin_view .area_view img { max-width:100%; height:auto }
