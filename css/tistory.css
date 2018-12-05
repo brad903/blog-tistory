@@ -166,9 +166,7 @@ address,caption,cite,code,dfn,em,var {font-style:normal;font-weight:normal}
 .skin_view .area_view ol li { margin-left:24px; margin-bottom:10px; }
 .skin_view .area_view ul li { list-style:disc }
 .skin_view .area_view ol li { list-style:decimal }
-.skin_view .area_view blockquote { padding: 10px 20px; margin: 15px auto 15px; border-left:5px solid #eee }
-.skin_view .area_view blockquote,
-.skin_view .area_view blockquote p { font-size:18px; line-height:30px }
+.skin_view .area_view blockquote { padding: 5px 10px; margin: 15px auto 15px; border-left:5px solid #eee }
 .skin_view .area_view blockquote ol:last-child,
 .skin_view .area_view blockquote ul:last-child,
 .skin_view .area_view blockquote p:last-child { margin-bottom:0 }
